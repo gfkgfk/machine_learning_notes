@@ -1,5 +1,7 @@
 # Hands-On Machine Learning with Scikit-Learn and TensorFlow 2nd Edition
 
+<https://github.com/ageron/handson-ml2>
+
 ### 第一章
 
 <font color=blue >什么是机器学习，神经网络等等前言(略)</font>
